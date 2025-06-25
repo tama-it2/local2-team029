@@ -11,15 +11,17 @@
 条件：
 
 1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
+`#川崎市#`
 1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
+東京と横浜両方にアクセスしやすく、通勤やお出かけに便利な立地。
 3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
+https://www.47news.jp/area/141305
 4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
+中学校に通う生徒が威圧的な指導を受けた後、自宅マンションから飛び降りて大けがをする事案があった。
 5. これらを、MarkDown で記述しなさい。
 
 ## 注意
 
 いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
-
-## 岡山県井原市
 
 
